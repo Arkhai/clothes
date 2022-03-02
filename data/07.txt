@@ -1,0 +1,3 @@
+Panama hat
+Hat
+(15, 40)

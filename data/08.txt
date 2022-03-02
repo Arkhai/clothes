@@ -1,0 +1,3 @@
+Shorts
+Trousers
+(18, 40)
